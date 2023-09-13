@@ -10,7 +10,7 @@ Installing and uninstalling applications in a Linux distribution. Using Linux co
 - Linux 
   - Suricata and tcpdump (network security applications)
 
-<h2>Documents:</h2>
+<h2>Examples:</h2>
 
  <h4>
 Installed the Suricata app: </h4>
